@@ -1,0 +1,6 @@
+De los siguientes nombres de variables, indica cuáles son válidos y cuáles no: 
+2edad: invalido
+_curso: valido
+while: invalido
+Nombre: valido
+precioTotal: valido , camelCase
