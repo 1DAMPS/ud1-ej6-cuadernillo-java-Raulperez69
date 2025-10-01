@@ -4,5 +4,6 @@ public class ej03 {
     Scanner sc = new Scanner(System.in);
     System.out.println("tu edad");
     int edad = sc.nextInt();
+    System.out.println("tu edad es:"+ edad);
     }
 }
