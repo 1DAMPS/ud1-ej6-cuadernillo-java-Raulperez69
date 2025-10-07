@@ -1,0 +1,3 @@
+Es importante elegir bien el tipo de dato porque si usas uno que no aguanta los valores que necesitas, el programa puede dar errores o sacar resultados raros. 
+Si usas uno demasiado grande también gastas más memoria de la que hace falta. 
+Así que lo mejor es usar el tipo justo para lo que vas a hacer y evitar problemas.
